@@ -1,7 +1,7 @@
 # prank_your_friends
 Collection of Fake Windows Update and Ransomeware for April Fools (and if you want new job...) 
 
-![](![img/menu.png)
+![](img/menu.png)
 
 ![](img/CryptoPrank01.png)
 
